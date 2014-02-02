@@ -4,6 +4,9 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+
+// This is a simple comment for the tutorial application
+// nothing more else 
 public class MainActivity extends Activity {
 
     @Override
